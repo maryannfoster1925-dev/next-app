@@ -27,7 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-mashka kakashka v1
+mashka kakashka v3
       </body>
     </html>
   );
