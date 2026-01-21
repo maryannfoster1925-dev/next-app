@@ -24,10 +24,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      mashka header
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-mashka kakashka v1
+mashka kakashka v2.1
       </body>
     </html>
   );
